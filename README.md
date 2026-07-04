@@ -1,56 +1,11 @@
-# Hi there, I'm Naiya Sharma 👋
+# Hi, I'm Naiya Sharma 👋
 
-Computer Engineering Student • Python Developer • C++ Programmer
+Computer Engineering Student | Python & C++ Developer | ML Enthusiast
 
----
+I build practical projects while sharpening my skills in Python, DSA, SQL, and Machine Learning.
 
-## About Me
+**Skills:** Python, C++, C, MySQL, HTML/CSS, NumPy, Git & GitHub
 
-I'm a Computer Engineering student passionate about software development, problem solving, and machine learning. I enjoy building practical applications while continuously sharpening my programming and analytical skills.
+**Projects:** Student Management System · Billing System · Snake Game · Attendance Management System · Portfolio Website
 
-Currently focusing on Python, Data Structures & Algorithms, SQL, and Machine Learning.
-
----
-
-## Technical Skills
-
-**Programming Languages:** Python, C++, C
-
-**Database:** MySQL
-
-**Web Technologies:** HTML, CSS
-
-**Libraries:** NumPy
-
-**Tools:** Git, GitHub, VS Code, PyCharm
-
----
-
-## Current Focus
-
-- Data Structures & Algorithms
-- Machine Learning
-- Python Development
-- Open Source
-- Building Real-World Projects
-
----
-
-## Featured Projects
-
-- **Student Management System** – System to manage student records and academics
-- **Billing System** – Application for generating and managing bills
-- **Snake Game** – Classic Snake game built for fun and practice
-- **Attendance Management System** – Tool to track and manage attendance records
-- **Portfolio Website** – Personal website showcasing my work and skills
-
----
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/naiya-sharma
-- Email: naiyasharma555@gmail.com
-
----
-
-Thanks for visiting my profile! ⭐
+**Connect:** [LinkedIn](https://www.linkedin.com/in/naiya-sharma) · naiyasharma555@gmail.com
