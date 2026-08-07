@@ -28,11 +28,5 @@ Interests
 • Web Development
 • Open Source
 
-Goals for 2026
-• Build strong DSA skills
-• Create real-world projects
-• Contribute to Open Source
-• Secure a Software Internship
-
 Thanks for visiting my profile!
 **Connect:** [LinkedIn](https://www.linkedin.com/in/naiya-sharma) · naiyasharma555@gmail.com
