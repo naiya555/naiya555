@@ -202,9 +202,15 @@ I enjoy programming games too!
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake-dark.svg" width="100%" alt="My GitHub Contribution Snake" />
 
 </div>
+
+with:
+  github_user_name: naiya555
+  outputs: |
+    dist/github-contribution-grid-snake.svg
+    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
 ## GitHub Activity
 
