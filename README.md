@@ -199,13 +199,6 @@ I enjoy programming games too!
 
 </div>
 
-with:
-  github_user_name: naiya555
-  outputs: |
-    dist/github-contribution-grid-snake.svg
-    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
----
 
 ## Connect With Me
 
