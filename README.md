@@ -65,4 +65,3 @@
 
 </details>
 
-<p align="center"><sub>Naiya Sharma · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
