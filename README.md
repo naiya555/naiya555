@@ -1,67 +1,218 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=naiya555&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230820348%3Fu%3Dc5739fb3ee889578b9ce2b1faebe296fe39dc754%26v%3D4" alt="naiya555 hero visual" />
+
+<div align="center">
+
+# Hi, I'm Naiya Sharma.
+
+### Computer Engineering Student | Aspiring AI/ML Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Learning+AI+%2F+ML+Development;Exploring+Generative+AI+%26+Agentic+AI;Building+Projects+and+Solving+Problems;Learning+Something+New+Every+Day." />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-naiya555-181717?style=flat-square&logo=github)](https://github.com/naiya555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/naiya-sharma-109948387/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:naiyasharma555@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=naiya555&style=flat-square&color=2563eb)
+
+</div>
+
+---
+
+## About Me
+
+I'm a Computer Engineering student at LDRP-ITR, Gujarat, interested in software development and Artificial Intelligence.
+
+- Currently learning AI/ML development.
+- Exploring Generative AI, Agentic AI and Multi-Agent Systems.
+- Building programming fundamentals with C++, Python and SQL.
+- Interested in robotics, automation and intelligent applications.
+- Participating in hackathons, AI workshops and technical events.
+- Learning by building projects and experimenting with new technologies.
+
+My goal is to turn what I learn into practical applications.
+
+---
+
+## Tech Stack
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,mysql" />
 </p>
 
-<p align="center"><b>Naiya Sharma</b> · Frontend or full-stack engineer<br/><sub>Computer Engineering Student | C++ • Python • Machine Learning | DSA | Open Source Learner</sub></p>
+**Web Development**
 
-<p align="center"><a href="https://github.com/naiya555">GitHub</a></p>
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=naiya555&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230820348%3Fu%3Dc5739fb3ee889578b9ce2b1faebe296fe39dc754%26v%3D4" alt="naiya555 projects visual" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-- [Billing-System](https://github.com/naiya555/Billing-System) · ★ 2 — A C++ console-based billing system with GST and discount calculation.
-- [stock-market-prediction-system](https://github.com/naiya555/stock-market-prediction-system) · ★ 1 — Web-based Indian stock market prediction system using historical market data, technical analysis, ma
-- [Smart-Timetable-Generator-CPP](https://github.com/naiya555/Smart-Timetable-Generator-CPP) · ★ 1 — A smart console-based timetable generator developed in C++ using Object-Oriented Programming (OOP), 
-- [Snake-and-Ladder-Game](https://github.com/naiya555/Snake-and-Ladder-Game) · ★ 1 — A console-based Snake and Ladder game developed in Python featuring two-player gameplay, dice rollin
-- [Attendance-Management-System](https://github.com/naiya555/Attendance-Management-System) · ★ 1 — A console-based Attendance Management System developed in C++ featuring input validation, attendance
-- [ANPR--4simiulatoin](https://github.com/naiya555/ANPR--4simiulatoin) · ★ 0 — An AI-powered Automatic Number Plate Recognition (ANPR) system built using Python, YOLO, ByteTrack, 
+**Tools & Libraries**
 
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=naiya555&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230820348%3Fu%3Dc5739fb3ee889578b9ce2b1faebe296fe39dc754%26v%3D4" alt="naiya555 stack visual" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,opencv,sklearn" />
 </p>
 
-</details>
+**Python Libraries:** NumPy, Pandas, Matplotlib
 
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+---
 
-<b>7</b> public repositories, <b>6</b> stars, <b>302</b> contributions in the last year, a longest streak of <b>23</b> days and <b>2</b> followers.
+## Featured Projects
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=naiya555&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230820348%3Fu%3Dc5739fb3ee889578b9ce2b1faebe296fe39dc754%26v%3D4" alt="naiya555 stats visual" />
-</p>
+### 01. SwachhTrack
+**Smart Waste Management & Citizen Reporting Platform**
 
-</details>
+A smart waste-management project developed for Smart India Hackathon 2026.
 
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+- Citizen waste reporting
+- GPS-based location tracking
+- AI-based severity analysis
+- Waste collection management
+- Hotspot prediction and route optimization
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=naiya555&theme=neon" alt="naiya555 contribution activity" />
-</p>
+### 02. Automatic Number Plate Recognition (ANPR)
 
-</details>
+An AI-based number plate recognition system.
 
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
+- Vehicle detection using YOLO
+- Number plate detection
+- Image enhancement and preprocessing
+- OCR using EasyOCR
+- Plate validation and vehicle tracking
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=naiya555&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F230820348%3Fu%3Dc5739fb3ee889578b9ce2b1faebe296fe39dc754%26v%3D4" alt="naiya555 social visual" />
-</p>
+### 03. Stock Market Prediction System
 
-</details>
+An ongoing project exploring financial market analysis and prediction.
+
+- Market data collection
+- Data processing and validation
+- Financial data visualization
+- Prediction pipeline development
+
+### 04. C++ Projects
+
+A collection of programming projects:
+
+- Billing Management System
+- Attendance Management System
+- Smart Timetable Generator
+- Snake Game
+- Tic Tac Toe
+- Snake and Ladder
+
+[Explore My Repositories →](https://github.com/naiya555?tab=repositories)
+
+---
+
+## AI Learning & Certifications
+
+### Anthropic Academy
+
+Completed courses:
+
+- AI Fluency: Framework & Foundations
+- Claude with the Anthropic API
+- Claude 101
+- Claude Code 101
+- Claude Code in Action
+- Claude Platform 101
+
+### IEEE SB DAIICT – Agentic AI Bootcamp
+
+Four-day hands-on learning experience covering:
+
+- Generative AI and Agentic AI
+- AI Agents and Multi-Agent Systems
+- Model Context Protocol (MCP)
+- Context Engineering
+- AI Tools and Automation
+- Production Architecture
+- Agent Evaluation and Observability
+- AI Security and Governance
+
+---
+
+## Hackathons & Technical Experiences
+
+| Event | Experience |
+|---|---|
+| Smart India Hackathon 2026 | Team Ekabyte |
+| HackOUT'25 | DA-IICT Hackathon |
+| IEEE Agentic AI Bootcamp | Four-day technical bootcamp |
+| Udyog 2026 | India Industrial Fair |
+| Odoo Experience 2026 | Academic Visitor |
+| Institute for Plasma Research | Research and technology visit |
+| Research Paper Workshop | LDRP-ITR & Data Vidwan |
+
+---
+
+## Currently Exploring
+
+- Artificial Intelligence & Machine Learning
+- Generative AI and Agentic AI
+- Python for AI/ML Development
+- Data Structures & Algorithms
+- Multi-Agent Systems
+- Computer Vision
+- Software Development
+
+---
+
+## A Little Fun Corner
+
+I enjoy programming games too!
+
+<div align="center">
+
+<a href="https://github.com/search?q=user%3Anaiya555+snake&type=repositories">
+<img src="https://img.shields.io/badge/SNAKE_GAME-Explore_Repository-181717?style=for-the-badge&logo=python" />
+</a>
+
+<a href="https://github.com/search?q=user%3Anaiya555+tic+tac+toe&type=repositories">
+<img src="https://img.shields.io/badge/TIC_TAC_TOE-Explore_Repository-2563EB?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=naiya555&show_icons=true&hide_border=true&theme=default&title_color=2563EB&icon_color=2563EB" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiya555&layout=compact&hide_border=true&theme=default&title_color=2563EB" />
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=naiya555&theme=default&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+**Let's connect, learn and build something interesting.**
+
+[LinkedIn](https://www.linkedin.com/in/naiya-sharma-109948387/) • [GitHub](https://github.com/naiya555) • [Email](mailto:naiyasharma555@gmail.com)
+
+<br>
+
+*Learn. Build. Experiment. Repeat.*
+
+</div>
 
