@@ -191,13 +191,6 @@ I enjoy programming games too!
 </div>
 
 ---
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
-
 ## My GitHub Contributions
 
 <div align="center">
