@@ -198,6 +198,24 @@ I enjoy programming games too!
 
 <img src="https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
 
+## My GitHub Contributions
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/naiya555/naiya555/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naiya555&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naiya555&show_icons=true&theme=default&hide_border=true)
+
+</div>
+
 </div>
 
 ---
