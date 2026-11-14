@@ -205,18 +205,6 @@ with:
     dist/github-contribution-grid-snake.svg
     dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naiya555&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naiya555&show_icons=true&theme=default&hide_border=true)
-
-</div>
-
-</div>
-
 ---
 
 ## Connect With Me
